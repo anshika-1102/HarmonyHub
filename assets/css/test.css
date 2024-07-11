@@ -318,7 +318,7 @@ figure figcaption {
 }
 
 #banner-image {
-    background-image: linear-gradient(transparent, rgba(0,0,0,0.2)), url("assets/img/test/banner-image.jpg");
+    background-image: linear-gradient(transparent, rgba(0,0,0,0.2)), url("https://png.pngtree.com/background/20230415/original/pngtree-free-download-green-marble-background-with-gold-line-picture-image_2443124.jpg");
     background-size: cover;
     background-size: 100%;
     background-position-y: 30%;
