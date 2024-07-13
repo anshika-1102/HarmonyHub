@@ -5,7 +5,7 @@
 }
 
 body {
-    background: linear-gradient(120deg, #caff9f, white);
+    background: linear-gradient(#caff9f, white, black);
 }
 
 .head {
